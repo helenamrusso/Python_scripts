@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 # Open a .csv file with the features you want to delete
 with open('/Users/helenarusso/Downloads/Features_EtOAc.csv', 'r') as features:
