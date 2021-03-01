@@ -1,4 +1,4 @@
-def filter_mgf(input_feature_table,input_mgf)
+def filter_mgf(input_feature_table,input_mgf):
 	# Open a .csv file with the features you want to delete
 	with open(input_feature_table, 'r') as features:
 		lines = features.read()
